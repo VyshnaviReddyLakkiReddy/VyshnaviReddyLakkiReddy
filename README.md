@@ -2,10 +2,10 @@
 
 # Vyshnavi Reddy
 
-### Data Analytics · Machine Learning · Applied Data Science
+### Data Science & Analytics Student · Aspiring Data Analyst
 
-Turning data into clear analysis and practical machine-learning projects, with a
-focus on network security and environmental forecasting.
+Interested in using data, statistical reasoning, and visualization to develop
+meaningful insights and support informed decisions.
 
 [Projects](#selected-projects) · [Technical toolkit](#technical-toolkit) · [Professional focus](#professional-focus)
 
@@ -15,10 +15,12 @@ focus on network security and environmental forecasting.
 
 ## About
 
-I use Python and data science tools to explore real-world problems, build
-classification and forecasting projects, and communicate the methods behind
-the results. My current portfolio brings together work in IoT network security,
-environmental data, and blockchain-based voting.
+As a Data Science and Analytics student, I am developing knowledge across data
+analysis, statistics, data visualization, and machine learning. I enjoy working
+through complex questions, recognizing patterns, and presenting findings
+clearly. I value curiosity, accuracy, and continuous learning, and I am
+interested in applying analytical thinking to practical challenges across
+different domains.
 
 ## Selected Projects
 
